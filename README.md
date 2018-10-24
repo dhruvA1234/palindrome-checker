@@ -6,7 +6,7 @@ int main()
 {
     int n, reversedInteger = 0, remainder, originalInteger;
 
-    printf("Enter the new number: ");
+    printf("Enter the new num: ");
     scanf("%d", &n);
 
     originalInteger = n;
