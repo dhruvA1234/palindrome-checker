@@ -21,9 +21,10 @@ int main()
 
     // palindrome if orignalInteger and reversedInteger are equal
     if (originalInteger == reversedInteger)
-        printf("%d is a palindrome.", originalInteger);
+        printf("%d the num is  a palindrome.", originalInteger);
     else
         printf("%d is not a palindrome.", originalInteger);
     
     return 0;
 }
+
